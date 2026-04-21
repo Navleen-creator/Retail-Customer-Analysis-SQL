@@ -35,6 +35,9 @@ Percentage of sales vs. returns for top-performing sub-categories.
 Identifying categories where the average revenue exceeds the overall company average.
 
 4. Advanced Analytics
-Trend Analysis: Returns identified within the last 3 months of the dataset.
-Efficiency Metrics: Identifying store types that lead in both quantity sold and total revenue.
-Sub-Category Performance: Deep dive into the top 5 product categories by quantity sold.
+Recent Return Trends: Identifying which product category saw the maximum value of returns in the last 3 months of available data.
+Store Performance: Determining which Store_type leads in both total quantity sold and maximum sales amount.
+Benchmarking: Finding product categories where the average revenue is higher than the overall total average revenue of the business.
+Deep-Dive Reporting: Calculating average and total revenue for all sub-categories belonging to the "Top 5" categories (ranked by quantity sold).
+
+--Navigate to the code[Click here](SQLQuery1.1.sql)
